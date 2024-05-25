@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
 
-<!--
-**yuki-t-2019/yuki-t-2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer with 14 years in the automotive industry, specializing in autonomous driving system development for the past 4 years. My skills include C, C++, Python, VBA, MATLAB, Simulink, Windows, Linux (Ubuntu), GitHub, GitLab, and Docker.
 
-Here are some ideas to get you started:
+### Interests and Skills
+- Autonomous Driving
+- Machine Learning / Deep Learning
+- Embedded Development
+- Algorithm Design
+- Software Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects and Contributions
+- Developed road anomaly detection and lane generation algorithms for AD/ADAS systems.
+- Led a machine learning project reducing data analysis man-hours by 90%.
+- Created teaching materials for in-house machine learning study sessions.
