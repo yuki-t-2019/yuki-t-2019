@@ -1,6 +1,6 @@
 ## About Me
 
-I am a software engineer with 14 years in the automotive industry, specializing in autonomous driving system development for the past 4 years. My skills include C, C++, Python, VBA, MATLAB, Simulink, Windows, Linux (Ubuntu), GitHub, GitLab, and Docker.
+I am a software engineer with 14 years in the automotive industry, specializing in autonomous driving system development for the past 4 years. My skills include C, C++, Python, ROS, MATLAB, Simulink, Windows, Linux (Ubuntu), GitHub, GitLab, and Docker.
 
 ### Interests and Skills
 - Autonomous Driving
